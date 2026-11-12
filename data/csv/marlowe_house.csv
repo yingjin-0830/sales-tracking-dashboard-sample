@@ -1,0 +1,65 @@
+Unit,Type,Floor,Line,Status,Sale price ($),Contract signed,Closing date
+2A,1BR,2,A,Executed Contract,2005000,2026-06-15,2027-04-16
+2B,Studio,2,B,Executed Contract,1400000,2026-09-17,2027-03-08
+2C,2BR,2,C,Executed Contract,3122000,2026-08-03,2027-05-13
+2D,1BR,2,D,Executed Contract,2028000,2026-06-17,2027-06-12
+2E,2BR,2,E,Executed Contract,2842000,2026-05-20,2027-05-31
+3A,1BR,3,A,Executed Contract,1832000,2026-07-16,2027-04-03
+3B,Studio,3,B,Executed Contract,1536000,2026-09-26,2027-04-01
+3C,2BR,3,C,Executed Contract,3195000,2026-07-06,2027-05-18
+3D,1BR,3,D,Executed Contract,1986000,2026-10-10,2027-06-20
+3E,2BR,3,E,Executed Contract,2959000,2026-07-09,2027-03-24
+4A,1BR,4,A,Executed Contract,2012000,2026-08-11,2027-03-16
+4B,Studio,4,B,Reserved,1500000,,
+4C,2BR,4,C,Executed Contract,2946000,2026-08-02,2027-06-04
+4D,1BR,4,D,Available,2135000,,
+4E,2BR,4,E,Executed Contract,3177000,2026-08-25,2027-07-06
+5A,1BR,5,A,Executed Contract,1989000,2026-10-27,2027-03-08
+5B,Studio,5,B,Executed Contract,1491000,2026-07-08,2027-07-13
+5C,2BR,5,C,Executed Contract,3190000,2026-05-10,2027-03-09
+5D,1BR,5,D,Executed Contract,1985000,2026-08-20,2027-04-21
+5E,2BR,5,E,Available,3060000,,
+6A,1BR,6,A,Available,1985000,,
+6B,Studio,6,B,Executed Contract,1488000,2026-08-29,2027-07-19
+6C,2BR,6,C,Executed Contract,3203000,2026-05-23,2027-06-06
+6D,1BR,6,D,Contract Out,2065000,,
+6E,2BR,6,E,Executed Contract,2992000,2026-10-30,2027-06-20
+7A,1BR,7,A,Available,2080000,,
+7B,Studio,7,B,Available,1635000,,
+7C,2BR,7,C,Executed Contract,3049000,2026-10-12,2027-07-21
+7D,1BR,7,D,Executed Contract,2024000,2026-08-29,2027-05-26
+7E,2BR,7,E,Available,3280000,,
+8A,1BR,8,A,Reserved,2185000,,
+8B,Studio,8,B,Executed Contract,1536000,2026-06-24,2027-05-21
+8C,2BR,8,C,Available,3150000,,
+8D,1BR,8,D,Executed Contract,2124000,2026-08-02,2027-03-19
+8E,2BR,8,E,Executed Contract,3309000,2026-05-30,2027-05-24
+9A,1BR,9,A,Available,2125000,,
+9B,Studio,9,B,Executed Contract,1522000,2026-10-25,2027-06-20
+9C,2BR,9,C,Executed Contract,3094000,2026-05-25,2027-04-25
+9D,1BR,9,D,Executed Contract,2128000,2026-07-29,2027-06-24
+9E,2BR,9,E,Executed Contract,3138000,2026-06-11,2027-03-21
+10A,1BR,10,A,Executed Contract,2274000,2026-10-03,2027-07-07
+10B,Studio,10,B,Reserved,1625000,,
+10C,2BR,10,C,Available,3210000,,
+10D,1BR,10,D,Executed Contract,2221000,2026-10-26,2027-05-24
+10E,2BR,10,E,Executed Contract,3284000,2026-08-12,2027-04-30
+11A,1BR,11,A,Executed Contract,2249000,2026-07-13,2027-05-17
+11B,Studio,11,B,Executed Contract,1567000,2026-08-29,2027-04-12
+11C,2BR,11,C,Executed Contract,3309000,2026-10-15,2027-06-28
+11D,1BR,11,D,Contract Out,2130000,,
+11E,2BR,11,E,Available,3220000,,
+12A,1BR,12,A,Executed Contract,2144000,2026-10-21,2027-07-05
+12B,Studio,12,B,Available,1600000,,
+12C,2BR,12,C,Available,3460000,,
+12D,1BR,12,D,Available,2280000,,
+12E,2BR,12,E,Available,3215000,,
+13A,1BR,13,A,Available,2315000,,
+13B,Studio,13,B,Executed Contract,1709000,2026-09-05,2027-03-07
+13C,2BR,13,C,Available,3505000,,
+13D,1BR,13,D,Available,2235000,,
+13E,2BR,13,E,Available,3405000,,
+PH-A,PH,14,A,Available,7120000,,
+PH-B,PH,14,B,Available,6805000,,
+PH-C,PH,14,C,Available,7170000,,
+PH-D,PH,14,D,Available,6535000,,
