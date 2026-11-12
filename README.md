@@ -8,7 +8,9 @@ A sample recreation of a sales tracking system I rebuilt for a portfolio of New 
 
 ## Try it
 
-Open [`index.html`](index.html) in a browser. It is a single self-contained file: no build step, no server, no internet connection needed.
+**[Open the live dashboard](https://yingjin-0830.github.io/sales-tracking-dashboard-sample/)**
+
+It is a single self-contained file, [`index.html`](index.html), with no build step and no server. You can also download it and open it offline.
 
 - Pick a project at the top to open its own dashboard.
 - Filter by sales status, or switch between unit counts and dollar value.
